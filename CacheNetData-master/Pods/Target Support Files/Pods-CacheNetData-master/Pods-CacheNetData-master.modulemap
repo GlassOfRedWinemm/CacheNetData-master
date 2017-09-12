@@ -1,0 +1,6 @@
+framework module Pods_CacheNetData_master {
+  umbrella header "Pods-CacheNetData-master-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+use_frameworks!
+platform :ios, '8.0'
+target 'CacheNetData-master' do
+pod 'AFNetworking', '~>3.0.3'
+pod 'YYCache', '~>1.0.4'
+end
