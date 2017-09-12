@@ -1,2 +1,2 @@
 # CacheNetData-master
-利用AFNetWorking和YYCache做网络数据缓存
+基于AFNetWorking和YYCache封装的一个网络数据缓存类
