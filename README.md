@@ -1,2 +1,2 @@
 # CacheNetData-master
-基于AFNetWorking和YYCache封装的一个带有网络缓存的请求类
+基于AFNetWorking和YYCache封装的一个带有网络缓存的请求类.
